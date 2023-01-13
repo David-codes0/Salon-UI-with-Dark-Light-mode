@@ -50,7 +50,7 @@ class DiscoverScreenState extends State<DiscoverScreen> {
                     children: [
                       Text('Hi', style: boldTextStyle(size: 18)),
                       8.width,
-                      const Text('Theresa Cohen,',
+                      const Text('David Adebayo,',
                           style: TextStyle(
                               fontSize: 18,
                               color: colorPrimary,
@@ -71,7 +71,7 @@ class DiscoverScreenState extends State<DiscoverScreen> {
                 children: [
                   const Icon(Icons.location_on, size: 16),
                   8.width,
-                  Text('301 Dorthy walks,chicago,Us.',
+                  Text('34 harmony Ikorodu Lagos.',
                       style: secondaryTextStyle()),
                 ],
               ),

@@ -91,7 +91,7 @@ class BookAppointmentScreenState extends State<BHPaymentScreen> {
                                 Icon(Icons.location_on,
                                     size: 14, color: aappTextColorSecondary),
                                 Text(
-                                  '301 Dorthy walks,chicago,Us.',
+                                  '34 harmony Ikorodu lagos.',
                                   style: secondaryTextStyle(),
                                   maxLines: 2,
                                   overflow: TextOverflow.ellipsis,

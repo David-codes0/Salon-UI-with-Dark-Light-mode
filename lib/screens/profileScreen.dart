@@ -70,9 +70,9 @@ class ProfileScreenState extends State<ProfileScreen> {
                         radius: 50),
                   ),
                   8.height,
-                  Text('Theresa Cohen', style: boldTextStyle()),
+                  Text('David Adebayo', style: boldTextStyle()),
                   8.height,
-                  Text('theresacohen@gmail.com', style: secondaryTextStyle()),
+                  Text('davidadebayo@gmail.com', style: secondaryTextStyle()),
                 ],
               ),
               Container(
