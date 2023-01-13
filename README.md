@@ -1,4 +1,4 @@
-# hairsalon_prokit
+# Salon-UI-with-Dark-Light-mode
 
 A new Flutter project.
 
